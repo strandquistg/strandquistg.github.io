@@ -31,9 +31,12 @@ github_username:  jekyll
 port: 4003
 
 # Build settings
-theme: minima
+#theme: minima
+theme: "jekyll-agency"
+# remote_theme: "agency-jekyll-theme"
 plugins:
   - jekyll-feed
+#  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
