@@ -32,6 +32,10 @@ port: 4003
 locale: "en-US"
 data_dir: _data
 
+sass:
+  sass_dir: _sass
+  style: compressed
+
 # Build settings
 #theme: minima
 theme: "jekyll-agency"

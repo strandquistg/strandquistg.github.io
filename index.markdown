@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Gabrielle Strandquist
+title: Ellie Strandquist
 locale: "en-US"
 author: Gabrielle Strandquist
 description: Confusion
